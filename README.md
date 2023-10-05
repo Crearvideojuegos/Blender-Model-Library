@@ -28,6 +28,8 @@ You can find from quickly made LowPoly models to block models or better models c
 
 ![Image Capture](https://iwritegame.com/github/img/senet-game-blender-model-readme.jpg)
 
+Remember: In the _ModelImages folder of each project you will find an image with a preview of the models.
+
 ## Blender Version
 
 [![Blender](https://img.shields.io/badge/Blender-3.6-57b.svg?&logo=blender)](https://www.blender.org)
